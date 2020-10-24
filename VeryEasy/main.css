@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.content {
+  display: grid;
+  grid-template: repeat(8,auto)/repeat(8,auto);
+  height: 100%;
+  border: solid;
+}
+
+.columns {
+  border: solid;
+  background: black;
+}
