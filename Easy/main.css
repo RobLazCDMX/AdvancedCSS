@@ -14,7 +14,11 @@ table {
 }
 
 #stars {
-    width: 40%;
+    width: 30%;
+}
+
+#Img-stars {
+    height: 100%;
 }
 
 .red {
