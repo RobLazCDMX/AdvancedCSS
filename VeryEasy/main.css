@@ -12,7 +12,7 @@ html {
 
 .content {
   display: grid;
-  grid-template: repeat(8,auto)/repeat(8,auto);
+  grid-template:  repeat(8,auto) /repeat(8,auto);
   height: 100%;
   border: solid;
 }
@@ -21,5 +21,10 @@ html {
   border: solid;
   background: black;
 }
+
+/* .columns, .rows {
+  width: 100px;
+  height: 100px;
+} */
 
 

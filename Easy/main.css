@@ -14,10 +14,11 @@ table {
 }
 
 #stars {
-    width: 30%;
+    width: 40%;
 }
 
 #Img-stars {
+    max-width: 100%;
     height: 100%;
 }
 
